@@ -1,0 +1,10 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "credit_total_amount": "0",
+    "credit_used_amount": "10",
+    "token_total_amount": "0",
+    "token_used_amount": "0"
+  }
+}

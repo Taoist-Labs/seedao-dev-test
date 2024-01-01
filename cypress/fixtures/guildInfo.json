@@ -1,0 +1,18 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "id": 22,
+    "logo": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/guild-22/logo.jpg",
+    "name": "test guild ",
+    "intro": "**From a concrete form perspective,**\n\u003cu\u003ethe polis consists of a unified cyberspace and physical \u003c/u\u003e\n*nodes scattered across different regions.*\n~~In pursuing the goal of \" good life,\" ~~\n\nthe goodness of the polis is manifested in three aspects: \n\n- promoting connections between people；fostering personal inner discovery and emergence; and providing a public life beneficial to all.\n- \nThe general outline of polis is the SeeDAO White Paper, and the highest principle of governance is the SeeDAO Meta Rule. If you wish to enter this world, this is the document you need to read first, as it represents the fundamental rules of the game.",
+    "desc": "Eager to see your proposals take shape in the network polis, where your name becomes a celebrated part of our collective world!",
+    "sponsors": ["0x183f09c3ce99c02118c570e03808476b22d63191"],
+    "members": ["0xd85c413da833cebd8338138ccefa04979df70e8e"],
+    "proposals": ["sip-129-seed-47718"],
+    "creator": "0x183F09C3cE99C02118c570e03808476b22d63191",
+    "create_ts": 1702384398,
+    "update_ts": 1702608761,
+    "budgets": []
+  }
+}

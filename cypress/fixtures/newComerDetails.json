@@ -1,0 +1,122 @@
+{
+  "id": "62f0adc68b90ee1aa913a965",
+  "title": "SeeDAO新手入门系列课程",
+  "description": "本系列课程将会介绍SeeDAO的新手入门流程与注意事项。",
+  "language": "Chinese",
+  "orgId": "6322e1f2a5fb2a36063d90ca",
+  "whatToLearn": ["SeeDAO新手入门流程", "SeeDAO onboarding的注意事项"],
+  "resourceId": "",
+  "resource": {
+    "id": "62f0adc78b90ee1aa913a96b",
+    "enrolledCount": 8422,
+    "finishedCount": 1614,
+    "likeCount": 285,
+    "ratingScoreCount": 11834,
+    "raterCount": 1518
+  },
+  "status": 1,
+  "studyType": 0,
+  "coverImage": "https://deschool.s3.amazonaws.com/Avatar/SeeDAO_OnBoarding_%E5%A4%B4%E5%9B%BE.png",
+  "createdAt": "2022-08-08T06:31:34.473Z",
+  "creator": {
+    "id": "62f0adc28b90ee1aa913a949",
+    "username": "SeeDAO",
+    "avatar": "https://deschool.s3.amazonaws.com/Avatar/SeeDAO_Avatar.png",
+    "address": "0xSeeDAO",
+    "bio": ""
+  },
+  "courses": [
+    {
+      "id": "62f0adc68b90ee1aa913a966",
+      "title": "SeeDAO onboarding教程",
+      "description": "本课程介绍SeeDAO的onboarding流程。",
+      "seriesId": "62f0adc68b90ee1aa913a965",
+      "status": 0,
+      "coverImage": "https://s3.us-east-1.amazonaws.com/deschool/courseCovers/6312ef230fa12c8534f3da3b09d3a4d7-da7b-4671-93be-a823757e56f2",
+      "creatorId": "",
+      "createdAt": "2022-12-05T08:14:57.888Z",
+      "sections": [
+        {
+          "id": "63a46ae99ce6e09dd4811471",
+          "title": "SeeDAO 的使命与治理架构",
+          "studyStatus": 1,
+          "type": "Video"
+        },
+        {
+          "id": "63a46b219ce6e09dd4811472",
+          "title": "SeeDAO 历史与季度目标",
+          "studyStatus": 0,
+          "type": "Video"
+        },
+        {
+          "id": "63a46b579ce6e09dd4811473",
+          "title": "SeeDAO 参与指南",
+          "studyStatus": 0,
+          "type": "Video"
+        },
+        {
+          "id": "62f0adc38b90ee1aa913a957",
+          "title": "Course Review",
+          "studyStatus": 0,
+          "type": "Review"
+        },
+        {
+          "id": "63a471299ce6e09dd4811474",
+          "title": "登船测试",
+          "studyStatus": 0,
+          "type": "Quiz"
+        },
+        {
+          "id": "63c6bdc12869742ddce0a0df",
+          "title": "SeeDAO 新人信息登记",
+          "studyStatus": 0,
+          "type": "Quiz"
+        },
+        {
+          "id": "6322f5add885205edb4f6ce7",
+          "title": "PoSK",
+          "studyStatus": 0,
+          "type": "Reward"
+        }
+      ],
+      "userActions": {
+        "isLiked": false
+      },
+      "resource": {
+        "id": "636714ed77c13ce1f71c962c",
+        "enrolledCount": 8365,
+        "finishedCount": 1595,
+        "likeCount": 274,
+        "ratingScoreCount": 11456,
+        "raterCount": 1479
+      },
+      "author": {
+        "id": "62f0adc28b90ee1aa913a949",
+        "username": "SeeDAO",
+        "avatar": "https://deschool.s3.amazonaws.com/Avatar/SeeDAO_Avatar.png",
+        "address": "0xSeeDAO",
+        "bio": ""
+      }
+    }
+  ],
+  "posks": [
+    {
+      "id": "62f0adb98b90ee1aa913a942",
+      "name": "PoSK-SeedaoOnboarding",
+      "description": "完成SeeDAO Onboarding 课程证明",
+      "url": "https://deschool.s3.amazonaws.com/PoskImg/78a60abcfdf10.png",
+      "metadata": "0x2C436d61C5Af62bcbfeE40B1f0BE5B483DfA0E11|157",
+      "ownersCount": 1970,
+      "contractAddr": "0x0D9ea891B4C30e17437D00151399990ED7965F00",
+      "tokenId": 157,
+      "seriesId": "62f0adc68b90ee1aa913a965",
+      "sections": ["6322f5add885205edb4f6ce7"],
+      "author": null
+    }
+  ],
+  "userActions": {
+    "isEnrolled": false,
+    "isCompleted": false
+  },
+  "passes": null
+}

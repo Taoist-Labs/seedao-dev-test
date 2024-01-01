@@ -1,0 +1,19 @@
+{
+  "id": "63a46ae99ce6e09dd4811471",
+  "title": "SeeDAO 的使命与治理架构",
+  "type": "Video",
+  "content": "https://deschool.s3.amazonaws.com/v/1080p/2EceeG6JJ.m3u8",
+  "author": {
+    "id": "62f0adc28b90ee1aa913a949",
+    "username": "SeeDAO",
+    "avatar": "https://deschool.s3.amazonaws.com/Avatar/SeeDAO_Avatar.png",
+    "address": "0xSeeDAO",
+    "bio": ""
+  },
+  "courseId": "62f0adc68b90ee1aa913a966",
+  "updates": [],
+  "courseEnrolled": false,
+  "data": {
+    "1080p": "https://deschool.s3.amazonaws.com/v/1080p/2EceeG6JJ.m3u8"
+  }
+}

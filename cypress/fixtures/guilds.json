@@ -1,0 +1,258 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "page": 1,
+    "size": 20,
+    "total": 18,
+    "rows": [
+      {
+        "id": 14,
+        "logo": "",
+        "name": "P1提案",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 13,
+        "logo": "",
+        "name": "翻译公会",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 12,
+        "logo": "",
+        "name": "SeeDAO 白皮书",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 11,
+        "logo": "",
+        "name": "See U Network",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 10,
+        "logo": "",
+        "name": "P3提案",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 9,
+        "logo": "",
+        "name": "市政厅",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 8,
+        "logo": "",
+        "name": "Seed",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 7,
+        "logo": "",
+        "name": "孵化器",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 6,
+        "logo": "",
+        "name": "投研公会",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 5,
+        "logo": "",
+        "name": "研发公会",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 4,
+        "logo": "",
+        "name": "全球DAO场",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 3,
+        "logo": "",
+        "name": "P2提案",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 2,
+        "logo": "",
+        "name": "新手村",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 1,
+        "logo": "",
+        "name": "城市联络人",
+        "intro": "",
+        "desc": "",
+        "sponsors": [],
+        "members": [],
+        "proposals": null,
+        "creator": "",
+        "create_ts": 0,
+        "update_ts": 0
+      },
+      {
+        "id": 22,
+        "logo": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/guild-22/logo.jpg",
+        "name": "test guild ",
+        "intro": "**From a concrete form perspective,**\n\u003cu\u003ethe polis consists of a unified cyberspace and physical \u003c/u\u003e\n*nodes scattered across different regions.*\n~~In pursuing the goal of \" good life,\" ~~\n\nthe goodness of the polis is manifested in three aspects: \n\n- promoting connections between people；fostering personal inner discovery and emergence; and providing a public life beneficial to all.\n- \nThe general outline of polis is the SeeDAO White Paper, and the highest principle of governance is the SeeDAO Meta Rule. If you wish to enter this world, this is the document you need to read first, as it represents the fundamental rules of the game.",
+        "desc": "Eager to see your proposals take shape in the network polis, where your name becomes a celebrated part of our collective world!",
+        "sponsors": ["0x183f09c3ce99c02118c570e03808476b22d63191"],
+        "members": ["0xd85c413da833cebd8338138ccefa04979df70e8e"],
+        "proposals": ["sip-129-seed-47718"],
+        "creator": "0x183F09C3cE99C02118c570e03808476b22d63191",
+        "create_ts": 1702384398,
+        "update_ts": 1702608761
+      },
+      {
+        "id": 21,
+        "logo": "",
+        "name": "99公会",
+        "intro": "JavaScript 最初是一种浏览器语言，后来通过 Node.js 征服了服务器。\n\n而到了 2023 年，整个生态系统似乎终于可以尝试弥合这一差距了。无论是 React Server Components 这样的功能，还是 Solid 和 Qwik 这样的框架，抑或是 Next.js 和 Sveltekit 这样的元框架，为客户端提供更好的代码和数据服务方式已成为 JavaScript 的下一个大目标。\n\n或者我们应该说是 TypeScript？在这一点上，我们已经很难将两者区分开来，所以还是不要尝试了。\n\n相反，参与调查来帮助我们弄清哪些是新的、哪些是旧的，以及在未来的岁月里哪些是异步的/等待着我们的！",
+        "desc": "99",
+        "sponsors": [
+          "0x9d6b1a15d476bfbbdf4274ef6b405086cd7258f9",
+          "0x183f09c3ce99c02118c570e03808476b22d63191"
+        ],
+        "members": [],
+        "proposals": ["sip-129-seed-47718"],
+        "creator": "0x183F09C3cE99C02118c570e03808476b22d63191",
+        "create_ts": 1702002794,
+        "update_ts": 1702002794
+      },
+      {
+        "id": 20,
+        "logo": "",
+        "name": "99公会",
+        "intro": "JavaScript 最初是一种浏览器语言，后来通过 Node.js 征服了服务器。\n\n而到了 2023 年，整个生态系统似乎终于可以尝试弥合这一差距了。无论是 React Server Components 这样的功能，还是 Solid 和 Qwik 这样的框架，抑或是 Next.js 和 Sveltekit 这样的元框架，为客户端提供更好的代码和数据服务方式已成为 JavaScript 的下一个大目标。\n\n或者我们应该说是 TypeScript？在这一点上，我们已经很难将两者区分开来，所以还是不要尝试了。\n\n相反，参与调查来帮助我们弄清哪些是新的、哪些是旧的，以及在未来的岁月里哪些是异步的/等待着我们的！",
+        "desc": "99",
+        "sponsors": [
+          "0x9d6b1a15d476bfbbdf4274ef6b405086cd7258f9",
+          "0x183f09c3ce99c02118c570e03808476b22d63191"
+        ],
+        "members": [],
+        "proposals": ["sip-129-seed-47718"],
+        "creator": "0x183F09C3cE99C02118c570e03808476b22d63191",
+        "create_ts": 1701948166,
+        "update_ts": 1701948166
+      },
+      {
+        "id": 15,
+        "logo": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/guild-15/logo.png",
+        "name": "Test Guild",
+        "intro": "",
+        "desc": "A test guild",
+        "sponsors": [
+          "0x4564d5a8bb409272f1fb4ae4c8b45fc0eafd709d",
+          "0x8fe174b2fe54d2689382cfef5500552ffb5c3805"
+        ],
+        "members": [
+          "0x41d2ce62cd81d9ccd5c6890dcb44267b26165f85",
+          "0x82944b68bb92fa11764041aa61204b5fdc85f429",
+          "0x183f09c3ce99c02118c570e03808476b22d63191"
+        ],
+        "proposals": ["sip-119-s5-47635"],
+        "creator": "0xEe3d9DeFdD97560c56402b3467869f293bfa35dC",
+        "create_ts": 1701876789,
+        "update_ts": 1701884638
+      }
+    ]
+  }
+}

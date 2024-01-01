@@ -1,0 +1,574 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "season_name": "S5",
+    "season_total_credit_without_mint": "2341479",
+    "season_total_mint_credit": "117073.95",
+    "total_wallet_count": 822,
+    "activate_wallet_count": 56,
+    "metaforo_confirmed": false,
+    "seed_snapshoted": true,
+    "records": [
+      {
+        "wallet": "0x332345477Db00239f88CA2Eb015B159750Cf3C44",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "29300"
+          },
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "60000"
+          }
+        ],
+        "season_total_credit": "89300",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 2,
+        "effective_credit": "37325"
+      },
+      {
+        "wallet": "0xfffef84688Fd0248155d06C0E603A04adABCcc64",
+        "seasons_credit": [
+          {
+            "season_idx": 0,
+            "season_name": "S0",
+            "total": "22100"
+          }
+        ],
+        "season_total_credit": "22100",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "690.625"
+      },
+      {
+        "wallet": "0x5ECc0eA06CC6CcDcF52aA0d1139c2813bb6EBEf4",
+        "seasons_credit": [
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "72270"
+          },
+          {
+            "season_idx": 0,
+            "season_name": "S0",
+            "total": "141000"
+          },
+          {
+            "season_idx": 2,
+            "season_name": "S2",
+            "total": "4344"
+          }
+        ],
+        "season_total_credit": "217614",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "9466.125"
+      },
+      {
+        "wallet": "0x27Ed0f676230Dc8fABBf9A2e021ac4a3eaf7788f",
+        "seasons_credit": [
+          {
+            "season_idx": 5,
+            "season_name": "S5",
+            "total": "1000"
+          }
+        ],
+        "season_total_credit": "1000",
+        "activity_credit": "1000",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "1000"
+      },
+      {
+        "wallet": "0xd77F312B0F690C69039881Ce7a71D297DFACe758",
+        "seasons_credit": [
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "800"
+          }
+        ],
+        "season_total_credit": "800",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "400"
+      },
+      {
+        "wallet": "0x19aF5e0a45c55c0f2edB5f48Abbed82360De7dD7",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "16588"
+          },
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "2200"
+          }
+        ],
+        "season_total_credit": "18788",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "5247"
+      },
+      {
+        "wallet": "0x77BbFa1E9088b6763fDF18D4655421E81aFAaCeE",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "6600"
+          },
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "1600"
+          },
+          {
+            "season_idx": 2,
+            "season_name": "S2",
+            "total": "5000"
+          },
+          {
+            "season_idx": 0,
+            "season_name": "S0",
+            "total": "285121"
+          },
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "18082"
+          }
+        ],
+        "season_total_credit": "316403",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "13115.15625"
+      },
+      {
+        "wallet": "0x249a4A9a08833D1230ED7Fb6Acb08496B69bF405",
+        "seasons_credit": [
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "1920"
+          }
+        ],
+        "season_total_credit": "1920",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "120"
+      },
+      {
+        "wallet": "0x8638808B98844E2b5BF7383CaCA50D6F4083edF8",
+        "seasons_credit": [
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "1920"
+          }
+        ],
+        "season_total_credit": "1920",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "120"
+      },
+      {
+        "wallet": "0xe72cEE7Ab10a3cDd7E1f0080aA512b86822414c2",
+        "seasons_credit": [
+          {
+            "season_idx": 0,
+            "season_name": "S0",
+            "total": "22500"
+          }
+        ],
+        "season_total_credit": "22500",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "703.125"
+      },
+      {
+        "wallet": "0x9d6b1a15d476BfBBDf4274Ef6B405086cD7258f9",
+        "seasons_credit": [
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "37500"
+          },
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "50000"
+          }
+        ],
+        "season_total_credit": "87500",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "31250"
+      },
+      {
+        "wallet": "0x999E136C7575396bAD7ED1c726042908A43f666C",
+        "seasons_credit": [
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "10000"
+          },
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "8400"
+          }
+        ],
+        "season_total_credit": "18400",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "7100"
+      },
+      {
+        "wallet": "0x6DF4c584482BF583A252E22b521C7743aa2E6F23",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "2600"
+          }
+        ],
+        "season_total_credit": "2600",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "650"
+      },
+      {
+        "wallet": "0xf214AB4B0cD623c8C8774A75165211E6d2A46D9c",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "300"
+          }
+        ],
+        "season_total_credit": "300",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "75"
+      },
+      {
+        "wallet": "0x4957c0b150bDe46891f0738df6332C5F2377D4b9",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "1800"
+          }
+        ],
+        "season_total_credit": "1800",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "450"
+      },
+      {
+        "wallet": "0xeAdb96718bb3b0436D2873AC010802EbC6FEE80F",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "2000"
+          }
+        ],
+        "season_total_credit": "2000",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "500"
+      },
+      {
+        "wallet": "0x4a2e38f642357691C392E968d7F6171D911De73C",
+        "seasons_credit": [
+          {
+            "season_idx": 0,
+            "season_name": "S0",
+            "total": "16200"
+          }
+        ],
+        "season_total_credit": "16200",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "506.25"
+      },
+      {
+        "wallet": "0x0c05AaCC260D5EbfCCDd9B06ab3633120CBe9676",
+        "seasons_credit": [
+          {
+            "season_idx": 5,
+            "season_name": "S5",
+            "total": "3720.6"
+          },
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "2733.3"
+          },
+          {
+            "season_idx": 2,
+            "season_name": "S2",
+            "total": "33400"
+          },
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "24000"
+          },
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "2900"
+          }
+        ],
+        "season_total_credit": "66753.9",
+        "activity_credit": "3720.6",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "15516.43125"
+      },
+      {
+        "wallet": "0x50a0bee2642bc78Fe2f759eAE97b6a3c4C0E84f8",
+        "seasons_credit": [
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "540"
+          }
+        ],
+        "season_total_credit": "540",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "33.75"
+      },
+      {
+        "wallet": "0xC35F47082E2FfBFDA3F4E8fBEEa5a10842AF902a",
+        "seasons_credit": [
+          {
+            "season_idx": 0,
+            "season_name": "S0",
+            "total": "10"
+          }
+        ],
+        "season_total_credit": "10",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "0.3125"
+      },
+      {
+        "wallet": "0xdA506cab5Cd437FeB8A4E47542CfB399ED8e6f46",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "300"
+          }
+        ],
+        "season_total_credit": "300",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "75"
+      },
+      {
+        "wallet": "0xed8f194F0a116575316e3F58FEBd40EcF6dcec13",
+        "seasons_credit": [
+          {
+            "season_idx": 2,
+            "season_name": "S2",
+            "total": "1600"
+          }
+        ],
+        "season_total_credit": "1600",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "200"
+      },
+      {
+        "wallet": "0x8d579e616F9f2696FF00008BE8a9566e2744074C",
+        "seasons_credit": [
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "2033.6"
+          }
+        ],
+        "season_total_credit": "2033.6",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "127.1"
+      },
+      {
+        "wallet": "0x1c14587742A4CfBEAfB1D9662069dDaf42A7148A",
+        "seasons_credit": [
+          {
+            "season_idx": 5,
+            "season_name": "S5",
+            "total": "1000"
+          }
+        ],
+        "season_total_credit": "1000",
+        "activity_credit": "1000",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "1000"
+      },
+      {
+        "wallet": "0xef0F49C09F502EfBB5Be9b12e2e391a44653E3Fd",
+        "seasons_credit": [
+          {
+            "season_idx": 2,
+            "season_name": "S2",
+            "total": "32963.7"
+          },
+          {
+            "season_idx": 0,
+            "season_name": "S0",
+            "total": "2500"
+          },
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "10649.7"
+          }
+        ],
+        "season_total_credit": "46113.4",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "4864.19375"
+      },
+      {
+        "wallet": "0xf3BF6BDfEA27464840d53b07c33Ea21C951D3746",
+        "seasons_credit": [
+          {
+            "season_idx": 2,
+            "season_name": "S2",
+            "total": "7963"
+          },
+          {
+            "season_idx": 1,
+            "season_name": "S1",
+            "total": "106080"
+          },
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "7500"
+          },
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "144000"
+          }
+        ],
+        "season_total_credit": "265543",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 1,
+        "effective_credit": "81500.375"
+      },
+      {
+        "wallet": "0x0a42Ee19D0062A4d48e17c2bC19B737f62eF2da5",
+        "seasons_credit": [
+          {
+            "season_idx": 4,
+            "season_name": "S4",
+            "total": "300"
+          }
+        ],
+        "season_total_credit": "300",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "150"
+      },
+      {
+        "wallet": "0x612b114B3FE7224537Ab929cE1C1E91EF1735a15",
+        "seasons_credit": [
+          {
+            "season_idx": 3,
+            "season_name": "S3",
+            "total": "2400"
+          }
+        ],
+        "season_total_credit": "2400",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "600"
+      },
+      {
+        "wallet": "0x1F5cEE5dF1049d3226B6365224C15180D0153122",
+        "seasons_credit": [
+          {
+            "season_idx": 2,
+            "season_name": "S2",
+            "total": "3350"
+          }
+        ],
+        "season_total_credit": "3350",
+        "activity_credit": "0",
+        "metaforo_vote_count": 0,
+        "metaforo_credit": "0",
+        "seed_count": 0,
+        "effective_credit": "418.75"
+      }
+    ]
+  }
+}

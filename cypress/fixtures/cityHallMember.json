@@ -1,0 +1,478 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": [
+    {
+      "id": 30,
+      "wallet": "0x82944b68bb92fa11764041aa61204b5fdc85f429",
+      "name": "",
+      "bio": "",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x82944b68bb92fa11764041aa61204b5fdc85f429_1699446983109.jpg",
+      "email": "",
+      "wechat": "",
+      "discord_profile": "",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 1701797006,
+      "update_ts": 1701797006,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0x82944b68bB92fA11764041AA61204b5fdC85F429",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x82944b68bb92fa11764041aa61204b5fdc85f429_1699446983109.jpg",
+        "email": "test@frozen.com",
+        "nickname": "Frozen",
+        "bio": "一个码农～还是一个攻城狮",
+        "roles": ["NODE_S4", "NODE_S5", "SEEDAO_MEMBER", "SEEDAO_ONBOARDING"],
+        "scr": {
+          "amount": "264776.6857",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "3",
+          "next_lv": "4",
+          "scr_to_next_lv": "35223",
+          "upgrade_percent": "82.38"
+        },
+        "seed": [
+          {
+            "token_id": "130",
+            "contract_addr": "0x30093266E34a816a53e302bE3e59a93B52792FD4",
+            "contract_type": "erc721",
+            "image_uri": "ipfs://bafybeihwciazjns5wjehd3464ipqzxn2kzutazj2ovk3bol4oxjvpcl5za/130_2.png",
+            "token_amount": "1"
+          },
+          {
+            "token_id": "533",
+            "contract_addr": "0x30093266E34a816a53e302bE3e59a93B52792FD4",
+            "contract_type": "erc721",
+            "image_uri": "ipfs://bafybeihwciazjns5wjehd3464ipqzxn2kzutazj2ovk3bol4oxjvpcl5za/533_2.png",
+            "token_amount": "1"
+          }
+        ],
+        "sbt": [
+          {
+            "token_id": "4",
+            "contract_addr": "0x9d34D407D8586478b3e4c39BE633ED3D7be1c80C",
+            "contract_type": "erc1155",
+            "image_uri": "https://ipfs.io/ipfs/QmYbJWpwwzCM6U98pjpz32MSppFRg3tvzNfuJWZkE9L29G",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "SeeDAO Season4 Node",
+            "symbol": "",
+            "metadata": {
+              "description": "SeeDAO 第四季节点身份证明",
+              "external_url": "https://seedao.xyz",
+              "image": "https://ipfs.io/ipfs/QmYbJWpwwzCM6U98pjpz32MSppFRg3tvzNfuJWZkE9L29G",
+              "name": "SeeDAO Season4 Node"
+            }
+          },
+          {
+            "token_id": "157",
+            "contract_addr": "0x0D9ea891B4C30e17437D00151399990ED7965F00",
+            "contract_type": "erc1155",
+            "image_uri": "https://deschool.s3.amazonaws.com/nft/proofs/157.png",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "PoSK-SeedaoOnboarding",
+            "symbol": "",
+            "metadata": {
+              "description": "完成SeeDAO Onboarding 课程证明",
+              "external_url": "https://deschool.app",
+              "id": 157,
+              "image": "https://deschool.s3.amazonaws.com/nft/proofs/157.png",
+              "name": "PoSK-SeedaoOnboarding"
+            }
+          },
+          {
+            "token_id": "5",
+            "contract_addr": "0x9d34D407D8586478b3e4c39BE633ED3D7be1c80C",
+            "contract_type": "erc1155",
+            "image_uri": "https://ipfs.io/ipfs/QmZXffgqaWGp9RjRTrTppfVR7KyLvtSpzVk6SruvsdDALz",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "",
+            "symbol": "",
+            "metadata": {
+              "description": "SeeDAO 第五季节点身份证明",
+              "external_url": "https://seedao.xyz",
+              "image": "https://ipfs.io/ipfs/QmZXffgqaWGp9RjRTrTppfVR7KyLvtSpzVk6SruvsdDALz",
+              "name": "SeeDAO Season5 Node"
+            }
+          }
+        ],
+        "social_accounts": [
+          {
+            "identity": "https://twitter.com/xrdavies",
+            "network": "twitter"
+          }
+        ]
+      }
+    },
+    {
+      "id": 227,
+      "wallet": "0x8fe174b2fe54d2689382cfef5500552ffb5c3805",
+      "name": "",
+      "bio": "",
+      "avatar": "",
+      "email": "",
+      "wechat": "",
+      "discord_profile": "",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 0,
+      "update_ts": 1701828924,
+      "assets": [],
+      "sp": null
+    },
+    {
+      "id": 237,
+      "wallet": "0xf4f86bd6308ed8c37866cb9fc8891fb40f3b63e9",
+      "name": "A3",
+      "bio": "没有消息就是好消息！",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0xf4F86bD6308eD8C37866cB9FC8891fb40F3B63E9_1702398091092.png",
+      "email": "",
+      "wechat": "",
+      "discord_profile": "",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 0,
+      "update_ts": 1702401879,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0xf4F86bD6308eD8C37866cB9FC8891fb40F3B63E9",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0xf4F86bD6308eD8C37866cB9FC8891fb40F3B63E9_1702398091092.png",
+        "email": null,
+        "nickname": "A3",
+        "bio": "没有消息就是好消息！",
+        "roles": [],
+        "scr": {
+          "amount": "0",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "0",
+          "next_lv": "1",
+          "scr_to_next_lv": "5000",
+          "upgrade_percent": "0"
+        },
+        "seed": [],
+        "sbt": [],
+        "social_accounts": []
+      }
+    },
+    {
+      "id": 263,
+      "wallet": "0x4c2201441fd71ebaccdfa0160fcf9853de5d1546",
+      "name": "Amon",
+      "bio": "Seize the day and purse",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x4c2201441FD71eBAcCDFA0160FCf9853De5d1546_1702401594743.jpg",
+      "email": "",
+      "wechat": "",
+      "discord_profile": "",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 0,
+      "update_ts": 1702401836,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0x4c2201441FD71eBAcCDFA0160FCf9853De5d1546",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x4c2201441FD71eBAcCDFA0160FCf9853De5d1546_1702401594743.jpg",
+        "email": null,
+        "nickname": "Amon",
+        "bio": "Seize the day and purse",
+        "roles": [],
+        "scr": {
+          "amount": "0",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "0",
+          "next_lv": "1",
+          "scr_to_next_lv": "5000",
+          "upgrade_percent": "0"
+        },
+        "seed": [],
+        "sbt": [],
+        "social_accounts": []
+      }
+    },
+    {
+      "id": 271,
+      "wallet": "0x45bb513eb653c7321878fe9642c651bd7564d113",
+      "name": "小怪兽",
+      "bio": "Rebase的吉祥物",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x45BB513eb653c7321878fE9642C651Bd7564D113_1702470013924.png",
+      "email": "",
+      "wechat": "",
+      "discord_profile": "",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 0,
+      "update_ts": 1702470021,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0x45BB513eb653c7321878fE9642C651Bd7564D113",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x45BB513eb653c7321878fE9642C651Bd7564D113_1702470013924.png",
+        "email": null,
+        "nickname": "小怪兽",
+        "bio": "Rebase的吉祥物",
+        "roles": [],
+        "scr": {
+          "amount": "0",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "0",
+          "next_lv": "1",
+          "scr_to_next_lv": "5000",
+          "upgrade_percent": "0"
+        },
+        "seed": [],
+        "sbt": [],
+        "social_accounts": []
+      }
+    },
+    {
+      "id": 89,
+      "wallet": "0x9d6b1a15d476bfbbdf4274ef6b405086cd7258f9",
+      "name": "joannazzz",
+      "bio": "I work as an independent developer.",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x9d6b1a15d476bfbbdf4274ef6b405086cd7258f9_1700829463741.jpg",
+      "email": "mmmpolar888@gmail.com",
+      "wechat": "",
+      "discord_profile": "luna",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 1701797006,
+      "update_ts": 1702663975,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0x9d6b1a15d476BfBBDf4274Ef6B405086cD7258f9",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x9d6b1a15d476bfbbdf4274ef6b405086cd7258f9_1700829463741.jpg",
+        "email": "mmmpolar888@gmail.com",
+        "nickname": "joannazzz",
+        "bio": "I work as an independent developer.",
+        "roles": ["NODE_S4", "NODE_S5", "SEEDAO_MEMBER", "SEEDAO_ONBOARDING"],
+        "scr": {
+          "amount": "89043.68722",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "2",
+          "next_lv": "3",
+          "scr_to_next_lv": "10956",
+          "upgrade_percent": "86.3"
+        },
+        "seed": [
+          {
+            "token_id": "531",
+            "contract_addr": "0x30093266E34a816a53e302bE3e59a93B52792FD4",
+            "contract_type": "erc721",
+            "image_uri": "ipfs://bafybeihwciazjns5wjehd3464ipqzxn2kzutazj2ovk3bol4oxjvpcl5za/531_2.png",
+            "token_amount": "1"
+          }
+        ],
+        "sbt": [
+          {
+            "token_id": "157",
+            "contract_addr": "0x0D9ea891B4C30e17437D00151399990ED7965F00",
+            "contract_type": "erc1155",
+            "image_uri": "https://deschool.s3.amazonaws.com/nft/proofs/157.png",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "PoSK-SeedaoOnboarding",
+            "symbol": "",
+            "metadata": {
+              "description": "完成SeeDAO Onboarding 课程证明",
+              "external_url": "https://deschool.app",
+              "id": 157,
+              "image": "https://deschool.s3.amazonaws.com/nft/proofs/157.png",
+              "name": "PoSK-SeedaoOnboarding"
+            }
+          },
+          {
+            "token_id": "4",
+            "contract_addr": "0x9d34D407D8586478b3e4c39BE633ED3D7be1c80C",
+            "contract_type": "erc1155",
+            "image_uri": "https://ipfs.io/ipfs/QmYbJWpwwzCM6U98pjpz32MSppFRg3tvzNfuJWZkE9L29G",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "SeeDAO Season4 Node",
+            "symbol": "",
+            "metadata": {
+              "description": "SeeDAO 第四季节点身份证明",
+              "external_url": "https://seedao.xyz",
+              "image": "https://ipfs.io/ipfs/QmYbJWpwwzCM6U98pjpz32MSppFRg3tvzNfuJWZkE9L29G",
+              "name": "SeeDAO Season4 Node"
+            }
+          },
+          {
+            "token_id": "5",
+            "contract_addr": "0x9d34D407D8586478b3e4c39BE633ED3D7be1c80C",
+            "contract_type": "erc1155",
+            "image_uri": "https://ipfs.io/ipfs/QmZXffgqaWGp9RjRTrTppfVR7KyLvtSpzVk6SruvsdDALz",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "",
+            "symbol": "",
+            "metadata": {
+              "description": "SeeDAO 第五季节点身份证明",
+              "external_url": "https://seedao.xyz",
+              "image": "https://ipfs.io/ipfs/QmZXffgqaWGp9RjRTrTppfVR7KyLvtSpzVk6SruvsdDALz",
+              "name": "SeeDAO Season5 Node"
+            }
+          }
+        ],
+        "social_accounts": [
+          {
+            "identity": "luna",
+            "network": "discord"
+          }
+        ]
+      }
+    },
+    {
+      "id": 215,
+      "wallet": "0x4d4b78d37090ed3e1eae6779ba2c3d6728052915",
+      "name": "",
+      "bio": "",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x4d4b78d37090ed3e1eae6779ba2c3d6728052915.png",
+      "email": "",
+      "wechat": "",
+      "discord_profile": "",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 1701797006,
+      "update_ts": 1701797006,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0x4d4b78D37090eD3e1EAe6779bA2C3D6728052915",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x4d4b78d37090ed3e1eae6779ba2c3d6728052915.png",
+        "email": "wz@gmail.com",
+        "nickname": "amanda",
+        "bio": "amanda is me me",
+        "roles": ["SEEDAO_MEMBER", "SEEDAO_ONBOARDING"],
+        "scr": {
+          "amount": "5000",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "1",
+          "next_lv": "2",
+          "scr_to_next_lv": "15000",
+          "upgrade_percent": "0"
+        },
+        "seed": [
+          {
+            "token_id": "119",
+            "contract_addr": "0x30093266E34a816a53e302bE3e59a93B52792FD4",
+            "contract_type": "erc721",
+            "image_uri": "ipfs://bafybeihwciazjns5wjehd3464ipqzxn2kzutazj2ovk3bol4oxjvpcl5za/119_1.png",
+            "token_amount": "1"
+          }
+        ],
+        "sbt": [
+          {
+            "token_id": "157",
+            "contract_addr": "0x0D9ea891B4C30e17437D00151399990ED7965F00",
+            "contract_type": "erc1155",
+            "image_uri": "https://deschool.s3.amazonaws.com/nft/proofs/157.png",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "PoSK-SeedaoOnboarding",
+            "symbol": "",
+            "metadata": {
+              "description": "完成SeeDAO Onboarding 课程证明",
+              "external_url": "https://deschool.app",
+              "id": 157,
+              "image": "https://deschool.s3.amazonaws.com/nft/proofs/157.png",
+              "name": "PoSK-SeedaoOnboarding"
+            }
+          }
+        ],
+        "social_accounts": [
+          {
+            "identity": "https://twitter.com/tsui17679441",
+            "network": "twitter"
+          },
+          {
+            "identity": "https://github.com/Amandaismeaaa",
+            "network": "github"
+          }
+        ]
+      }
+    },
+    {
+      "id": 229,
+      "wallet": "0x183f09c3ce99c02118c570e03808476b22d63191",
+      "name": "",
+      "bio": "",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x183f09c3ce99c02118c570e03808476b22d63191_1700748204266.jpg",
+      "email": "",
+      "wechat": "",
+      "discord_profile": "",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 0,
+      "update_ts": 1701876096,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0x183F09C3cE99C02118c570e03808476b22d63191",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x183f09c3ce99c02118c570e03808476b22d63191_1700748204266.jpg",
+        "email": "111@123.com",
+        "nickname": "Ruarua",
+        "bio": "This is Ruarua",
+        "roles": [],
+        "scr": {
+          "amount": "0",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "0",
+          "next_lv": "1",
+          "scr_to_next_lv": "5000",
+          "upgrade_percent": "0"
+        },
+        "seed": [],
+        "sbt": [],
+        "social_accounts": [
+          {
+            "identity": "https://twitter.com/ruarua",
+            "network": "twitter"
+          },
+          {
+            "identity": "https://mirror.xyz/ruarua",
+            "network": "mirror"
+          },
+          {
+            "identity": "https://github.com/ruarua",
+            "network": "github"
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "id": 16,
+    "logo": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/project-16/logo.png",
+    "name": "TestProject",
+    "intro": "This is desc, edited",
+    "desc": "This is test project",
+    "status": "open",
+    "grouped_sponsors": null,
+    "sponsors": [
+      "0xee3d9defdd97560c56402b3467869f293bfa35dc",
+      "0x8fe174b2fe54d2689382cfef5500552ffb5c3805",
+      "0x4564d5a8bb409272f1fb4ae4c8b45fc0eafd709d"
+    ],
+    "members": [
+      "0x183f09c3ce99c02118c570e03808476b22d63191",
+      "0xd85c413da833cebd8338138ccefa04979df70e8e"
+    ],
+    "proposals": ["sip-123-seedao-47641"],
+    "creator": "0xee3d9defdd97560c56402b3467869f293bfa35dc",
+    "is_special": false,
+    "special_type": "",
+    "create_ts": 1701824438,
+    "update_ts": 1702608746,
+    "budgets": [
+      {
+        "id": 1,
+        "project_id": 16,
+        "name": "USDT",
+        "total_amount": "0",
+        "used_amount": "0",
+        "remain_amount": "0",
+        "create_ts": 1701824438,
+        "update_ts": 1701824438
+      },
+      {
+        "id": 2,
+        "project_id": 16,
+        "name": "SCR",
+        "total_amount": "0",
+        "used_amount": "0",
+        "remain_amount": "0",
+        "create_ts": 1701824438,
+        "update_ts": 1701824438
+      }
+    ]
+  }
+}

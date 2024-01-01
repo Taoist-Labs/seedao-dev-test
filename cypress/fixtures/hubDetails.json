@@ -1,0 +1,234 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "archived": false,
+    "cover": {
+      "file": {
+        "expiry_time": "2023-12-18T16:41:37.898Z",
+        "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5a4585f0-41bf-46b1-8321-4c9d55abc37a/9992b7e1-2a38-41b9-98cf-6d4f432a6273/1702354253881.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20231218%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20231218T154138Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=f2c0c4d71178e50703db8dec40cb11a1b52eb07db7012a9898b15ac7acb07769\u0026X-Amz-SignedHeaders=host\u0026x-id=GetObject"
+      },
+      "type": "file"
+    },
+    "created_by": {
+      "id": "39485479-eabe-41f5-b821-d0fbeace9d25",
+      "object": "user"
+    },
+    "created_time": "2023-12-12T04:06:00.000Z",
+    "icon": null,
+    "id": "f4c6dcc2-6a8f-4755-8d7c-c0dd69ef3712",
+    "last_edited_by": {
+      "id": "35e1ae75-7dac-4497-9d90-46a7e48dbbf1",
+      "object": "user"
+    },
+    "last_edited_time": "2023-12-12T05:11:00.000Z",
+    "object": "page",
+    "parent": {
+      "database_id": "73d83a0a-258d-4ac5-afa5-7a997114755a",
+      "type": "database_id"
+    },
+    "properties": {
+      "上新时间": {
+        "created_time": "2023-12-12T04:06:00.000Z",
+        "id": "ThTF",
+        "type": "created_time"
+      },
+      "任务说明": {
+        "id": "Bzg%40",
+        "rich_text": [
+          {
+            "annotations": {
+              "bold": false,
+              "code": false,
+              "color": "default",
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            },
+            "href": null,
+            "plain_text": " 你将会加入一个 3-6 人的活动团队，分头发起不同的项目，来促进新手贡献者卷入社区协作、在DAO中找到自己的目标与方向。\n活动包括不限于：\n开营/结营典礼\n日常 AMA\n城邦演讲\n培训工作坊\n节点共识大会观光团\n加入团队的你，可以与我们一起头脑风暴、认领自己最感兴趣的活动，共创一个生机勃勃的新手村！",
+            "text": {
+              "content": " 你将会加入一个 3-6 人的活动团队，分头发起不同的项目，来促进新手贡献者卷入社区协作、在DAO中找到自己的目标与方向。\n活动包括不限于：\n开营/结营典礼\n日常 AMA\n城邦演讲\n培训工作坊\n节点共识大会观光团\n加入团队的你，可以与我们一起头脑风暴、认领自己最感兴趣的活动，共创一个生机勃勃的新手村！",
+              "link": null
+            },
+            "type": "text"
+          }
+        ],
+        "type": "rich_text"
+      },
+      "封面": {
+        "files": [
+          {
+            "file": {
+              "expiry_time": "2023-12-18T16:41:37.880Z",
+              "url": "https://prod-files-secure.s3.us-west-2.amazonaws.com/5a4585f0-41bf-46b1-8321-4c9d55abc37a/e84523b7-33f6-4e21-8877-e38cf1eb7a64/1702354253881.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256\u0026X-Amz-Content-Sha256=UNSIGNED-PAYLOAD\u0026X-Amz-Credential=AKIAT73L2G45HZZMZUHI%2F20231218%2Fus-west-2%2Fs3%2Faws4_request\u0026X-Amz-Date=20231218T154137Z\u0026X-Amz-Expires=3600\u0026X-Amz-Signature=c20c26811bd1a7fa4674309a7d8967778e9e8567445fc375d86f50c8c9ac094b\u0026X-Amz-SignedHeaders=host\u0026x-id=GetObject"
+            },
+            "name": "1702354253881.jpg",
+            "type": "file"
+          }
+        ],
+        "id": "0084e327-0f1c-4617-b23d-760b0c037a2a",
+        "type": "files"
+      },
+      "悬赏名称": {
+        "id": "title",
+        "title": [
+          {
+            "annotations": {
+              "bold": false,
+              "code": false,
+              "color": "default",
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            },
+            "href": null,
+            "plain_text": "新手村活动策划",
+            "text": {
+              "content": "新手村活动策划",
+              "link": null
+            },
+            "type": "text"
+          }
+        ],
+        "type": "title"
+      },
+      "悬赏状态": {
+        "id": "ArpA",
+        "select": {
+          "color": "yellow",
+          "id": "2d5c85be-12ec-4a41-89ab-3cfd82a6a75b",
+          "name": "招募中"
+        },
+        "type": "select"
+      },
+      "悬赏类型": {
+        "id": "GJ%3DR",
+        "multi_select": [
+          {
+            "color": "orange",
+            "id": "e10e98a4-5cb3-4e90-8f6b-806b2e6c4e43",
+            "name": "项目招募 | Project Recruitment"
+          }
+        ],
+        "type": "multi_select"
+      },
+      "技能要求": {
+        "id": "~B%3C%7D",
+        "rich_text": [
+          {
+            "annotations": {
+              "bold": false,
+              "code": false,
+              "color": "default",
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            },
+            "href": null,
+            "plain_text": "喜欢 SeeDAO\n熟悉腾讯会议开房间等基础操作",
+            "text": {
+              "content": "喜欢 SeeDAO\n熟悉腾讯会议开房间等基础操作",
+              "link": null
+            },
+            "type": "text"
+          }
+        ],
+        "type": "rich_text"
+      },
+      "招募截止时间": {
+        "id": "iSkG",
+        "rich_text": [
+          {
+            "annotations": {
+              "bold": false,
+              "code": false,
+              "color": "default",
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            },
+            "href": null,
+            "plain_text": "2024年1月1日",
+            "text": {
+              "content": "2024年1月1日",
+              "link": null
+            },
+            "type": "text"
+          }
+        ],
+        "type": "rich_text"
+      },
+      "联系方式": {
+        "id": "%5DTp%3B",
+        "rich_text": [],
+        "type": "rich_text"
+      },
+      "联络方式：Discord": {
+        "id": "uSj%7D",
+        "rich_text": [],
+        "type": "rich_text"
+      },
+      "联络方式：微信": {
+        "id": "%40kmc",
+        "rich_text": [
+          {
+            "annotations": {
+              "bold": false,
+              "code": false,
+              "color": "default",
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            },
+            "href": null,
+            "plain_text": "15353000580",
+            "text": {
+              "content": "15353000580",
+              "link": null
+            },
+            "type": "text"
+          }
+        ],
+        "type": "rich_text"
+      },
+      "贡献报酬": {
+        "id": "_zm%5E",
+        "rich_text": [
+          {
+            "annotations": {
+              "bold": false,
+              "code": false,
+              "color": "default",
+              "italic": false,
+              "strikethrough": false,
+              "underline": false
+            },
+            "href": null,
+            "plain_text": "合计 12w 积分预算，根据具体项目确定 Bounty 数额，以及奖金池",
+            "text": {
+              "content": "合计 12w 积分预算，根据具体项目确定 Bounty 数额，以及奖金池",
+              "link": null
+            },
+            "type": "text"
+          }
+        ],
+        "type": "rich_text"
+      },
+      "👫 对接人": {
+        "id": "ax%5C%5C",
+        "rich_text": [],
+        "type": "rich_text"
+      },
+      "👫 认领人": {
+        "has_more": false,
+        "id": "%5C%5BT%3B",
+        "relation": [],
+        "type": "relation"
+      }
+    },
+    "public_url": "https://seedao.notion.site/f4c6dcc26a8f47558d7cc0dd69ef3712",
+    "request_id": "bcf12112-1ca7-4a6e-b6b3-7bf7168e69fa",
+    "url": "https://www.notion.so/f4c6dcc26a8f47558d7cc0dd69ef3712"
+  }
+}

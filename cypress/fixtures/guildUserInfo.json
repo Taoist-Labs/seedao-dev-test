@@ -1,0 +1,176 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": [
+    {
+      "id": 116,
+      "wallet": "0xd85c413da833cebd8338138ccefa04979df70e8e",
+      "name": "Wendy",
+      "bio": "test",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0xd85c413da833cebd8338138ccefa04979df70e8e_1701618164546.jpg",
+      "email": "test@1234.com",
+      "wechat": "wechat",
+      "discord_profile": "testDiscord",
+      "twitter_profile": "https://twitter.com/home",
+      "google_profile": "",
+      "github_profile": "https://github.com/Taoist-Labs",
+      "mirror": "https://mirror.xyz/",
+      "create_ts": 1701797006,
+      "update_ts": 1702728457,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0xD85c413dA833CeBD8338138CcEFA04979DF70E8e",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0xd85c413da833cebd8338138ccefa04979df70e8e_1701618164546.jpg",
+        "email": "test@1234.com",
+        "nickname": "Wendy",
+        "bio": "test",
+        "roles": ["NODE_S4", "NODE_S5", "SEEDAO_MEMBER", "SEEDAO_ONBOARDING"],
+        "scr": {
+          "amount": "60514.56241",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "2",
+          "next_lv": "3",
+          "scr_to_next_lv": "39485",
+          "upgrade_percent": "50.64"
+        },
+        "seed": [
+          {
+            "token_id": "539",
+            "contract_addr": "0x30093266E34a816a53e302bE3e59a93B52792FD4",
+            "contract_type": "erc721",
+            "image_uri": "ipfs://bafybeihwciazjns5wjehd3464ipqzxn2kzutazj2ovk3bol4oxjvpcl5za/539_2.png",
+            "token_amount": "1"
+          }
+        ],
+        "sbt": [
+          {
+            "token_id": "157",
+            "contract_addr": "0x0D9ea891B4C30e17437D00151399990ED7965F00",
+            "contract_type": "erc1155",
+            "image_uri": "https://deschool.s3.amazonaws.com/nft/proofs/157.png",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "PoSK-SeedaoOnboarding",
+            "symbol": "",
+            "metadata": {
+              "description": "完成SeeDAO Onboarding 课程证明",
+              "external_url": "https://deschool.app",
+              "id": 157,
+              "image": "https://deschool.s3.amazonaws.com/nft/proofs/157.png",
+              "name": "PoSK-SeedaoOnboarding"
+            }
+          },
+          {
+            "token_id": "4",
+            "contract_addr": "0x9d34D407D8586478b3e4c39BE633ED3D7be1c80C",
+            "contract_type": "erc1155",
+            "image_uri": "https://ipfs.io/ipfs/QmYbJWpwwzCM6U98pjpz32MSppFRg3tvzNfuJWZkE9L29G",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "SeeDAO Season4 Node",
+            "symbol": "",
+            "metadata": {
+              "description": "SeeDAO 第四季节点身份证明",
+              "external_url": "https://seedao.xyz",
+              "image": "https://ipfs.io/ipfs/QmYbJWpwwzCM6U98pjpz32MSppFRg3tvzNfuJWZkE9L29G",
+              "name": "SeeDAO Season4 Node"
+            }
+          },
+          {
+            "token_id": "5",
+            "contract_addr": "0x9d34D407D8586478b3e4c39BE633ED3D7be1c80C",
+            "contract_type": "erc1155",
+            "image_uri": "https://ipfs.io/ipfs/QmZXffgqaWGp9RjRTrTppfVR7KyLvtSpzVk6SruvsdDALz",
+            "token_amount": "1",
+            "collection_name": "",
+            "name": "",
+            "symbol": "",
+            "metadata": {
+              "description": "SeeDAO 第五季节点身份证明",
+              "external_url": "https://seedao.xyz",
+              "image": "https://ipfs.io/ipfs/QmZXffgqaWGp9RjRTrTppfVR7KyLvtSpzVk6SruvsdDALz",
+              "name": "SeeDAO Season5 Node"
+            }
+          }
+        ],
+        "social_accounts": [
+          {
+            "identity": "wechat",
+            "network": "wechat"
+          },
+          {
+            "identity": "testDiscord",
+            "network": "discord"
+          },
+          {
+            "identity": "https://twitter.com/home",
+            "network": "twitter"
+          },
+          {
+            "identity": "https://mirror.xyz/",
+            "network": "mirror"
+          },
+          {
+            "identity": "https://github.com/Taoist-Labs",
+            "network": "github"
+          }
+        ]
+      }
+    },
+    {
+      "id": 229,
+      "wallet": "0x183f09c3ce99c02118c570e03808476b22d63191",
+      "name": "",
+      "bio": "",
+      "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x183f09c3ce99c02118c570e03808476b22d63191_1700748204266.jpg",
+      "email": "",
+      "wechat": "",
+      "discord_profile": "",
+      "twitter_profile": "",
+      "google_profile": "",
+      "github_profile": "",
+      "mirror": "",
+      "create_ts": 0,
+      "update_ts": 1701876096,
+      "assets": [],
+      "sp": {
+        "sns": "",
+        "wallet": "0x183F09C3cE99C02118c570e03808476b22d63191",
+        "avatar": "https://seedao-os-superapp.s3.ap-northeast-2.amazonaws.com/user_avatars/0x183f09c3ce99c02118c570e03808476b22d63191_1700748204266.jpg",
+        "email": "111@123.com",
+        "nickname": "Ruarua",
+        "bio": "This is Ruarua",
+        "roles": [],
+        "scr": {
+          "amount": "0",
+          "contract_addr": "0xc74DEE15a4700D5df797bDD3982EE649A3Bb8c6C"
+        },
+        "level": {
+          "current_lv": "0",
+          "next_lv": "1",
+          "scr_to_next_lv": "5000",
+          "upgrade_percent": "0"
+        },
+        "seed": [],
+        "sbt": [],
+        "social_accounts": [
+          {
+            "identity": "https://twitter.com/ruarua",
+            "network": "twitter"
+          },
+          {
+            "identity": "https://mirror.xyz/ruarua",
+            "network": "mirror"
+          },
+          {
+            "identity": "https://github.com/ruarua",
+            "network": "github"
+          }
+        ]
+      }
+    }
+  ]
+}

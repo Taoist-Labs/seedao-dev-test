@@ -1,0 +1,37 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "id": 15,
+    "logo": "",
+    "name": "CityHall",
+    "intro": "",
+    "desc": "",
+    "status": "",
+    "grouped_sponsors": {
+      "G_BRANDING": [
+        "0x183f09c3ce99c02118c570e03808476b22d63191",
+        "0x45bb513eb653c7321878fe9642c651bd7564d113"
+      ],
+      "G_GOVERNANCE": [
+        "0x4d4b78d37090ed3e1eae6779ba2c3d6728052915",
+        "0x82944b68bb92fa11764041aa61204b5fdc85f429"
+      ],
+      "G_TECH": [
+        "0x9d6b1a15d476bfbbdf4274ef6b405086cd7258f9",
+        "0x8fe174b2fe54d2689382cfef5500552ffb5c3805",
+        "0xf4f86bd6308ed8c37866cb9fc8891fb40f3b63e9",
+        "0x4c2201441fd71ebaccdfa0160fcf9853de5d1546"
+      ]
+    },
+    "sponsors": [],
+    "members": [],
+    "proposals": null,
+    "creator": "",
+    "is_special": true,
+    "special_type": "city_hall",
+    "create_ts": 1701823037,
+    "update_ts": 1702473205,
+    "budgets": []
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "data": {
+    "wallets": [
+      {
+        "chainId": 1,
+        "wallet": "0x444C1Cf57b65C011abA9BaBEd05C6b13C11b03b5",
+        "fiatTotal": "459791.54",
+        "threshold": 2,
+        "owners": 3
+      },
+      {
+        "chainId": 1,
+        "wallet": "0x70F97Ad9dd7E1bFf40c3374A497a7583B0fAdd25",
+        "fiatTotal": "121626.488",
+        "threshold": 3,
+        "owners": 4
+      },
+      {
+        "chainId": 137,
+        "wallet": "0x4876eaD85CE358133fb80276EB3631D192196e24",
+        "fiatTotal": "175.529",
+        "threshold": 3,
+        "owners": 3
+      },
+      {
+        "chainId": 1,
+        "wallet": "0x7FdA3253c94F09fE6950710E5273165283f8b283",
+        "fiatTotal": "680384.588",
+        "threshold": 3,
+        "owners": 5
+      }
+    ]
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "err_code": 0,
+  "data": {
+    "id": 27,
+    "subject": "ETH LONDON Post Event & Web3&AI Networking Meet-up",
+    "thumbnail": "https://seedao-store.s3.us-east-2.amazonaws.com/seeu/%C3%A5%C2%BE%C2%AE%C3%A4%C2%BF%C2%A1%C3%A5%C2%9B%C2%BE%C3%A7%C2%89%C2%87_20231101191831.png",
+    "poster": "https://seedao-store.s3.us-east-2.amazonaws.com/seeu/%C3%A5%C2%BE%C2%AE%C3%A4%C2%BF%C2%A1%C3%A5%C2%9B%C2%BE%C3%A7%C2%89%C2%87_20231101191831.png",
+    "summary": "<p>  </p>",
+    "startTime": "Thu, Nov 2, 2023, 6:30 PM",
+    "endTime": "Fri, Dec 31, 9999, 11:59 PM",
+    "city": {
+      "id": 9,
+      "name": "伦敦",
+      "longitude": "-0.1276",
+      "latitude": "51.5074"
+    },
+    "tags": ["线下", " ETH"]
+  }
+}
